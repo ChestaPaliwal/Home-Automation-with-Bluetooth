@@ -1,0 +1,7 @@
+Output on Serial Monitor
+When you upload the Serial Monitor version of the code and open the Arduino Serial Monitor (at 9600 baud), you will see output like:
+Temperature: 29.42 °C
+Temperature: 29.50 °C
+Temperature: 29.67 °C
+Temperature: 29.80 °C
+➡️ The values change based on the surrounding temperature, refreshing every 1 second
