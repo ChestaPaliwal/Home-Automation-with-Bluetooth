@@ -52,9 +52,4 @@ Send:
 
 '0' → to Turn OFF the device.
 
-📸 Deliverables
-✅ Circuit Diagram (you can draw based on the above circuit description)
 
-✅ Arduino Code (provided above)
-
-✅ Demo Video or Photos (showing relay switching via phone)
